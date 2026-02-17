@@ -1,0 +1,1 @@
+# qa-internship-test-task
